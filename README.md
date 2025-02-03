@@ -1,6 +1,9 @@
 # Olá, eu sou Luiz Phillipe 🚀
 
 ## Bem-vindo ao meu perfil! Sou um entusiasta da programação, estudante de TI e desenvolvedor fullstack.
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-luiz-phillipe/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luiz.phillipe2003@outlook.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luiz.castroo)
 
 ### 🚀 Sobre mim
 
@@ -44,5 +47,4 @@
     <img align= "center" alt= "MYSQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
     <img align="center" alt="FIREBASE" src="https://github.com/user-attachments/assets/c0403ad0-7158-4647-a65a-d6d3f2e8a92e" />
     <img align="center" alt="CLERK" src="https://img.shields.io/badge/github.com%2Fclerk-grey?style=for-the-badge&logo=clerk&logoColor=ffffff&color=6c47ff" />
-    
 </div>
