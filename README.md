@@ -48,3 +48,4 @@
     <img align="center" alt="FIREBASE" src="https://github.com/user-attachments/assets/c0403ad0-7158-4647-a65a-d6d3f2e8a92e" />
     <img align="center" alt="CLERK" src="https://img.shields.io/badge/github.com%2Fclerk-grey?style=for-the-badge&logo=clerk&logoColor=ffffff&color=6c47ff" />
 </div>
+![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
