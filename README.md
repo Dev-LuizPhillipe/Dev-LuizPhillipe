@@ -1,16 +1,48 @@
-## Hi there 👋
+# Olá, eu sou Luiz Phillipe 🚀
 
-<!--
-**Dev-LuizPhillipe/Dev-LuizPhillipe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Bem-vindo ao meu perfil! Sou um entusiasta da programação, estudante de TI e desenvolvedor fullstack.
 
-Here are some ideas to get you started:
+### 🚀 Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Desenvolvimento web e mobile.
+
+- Atualmente, trabalhando em projetos com React.
+
+- Sempre buscando aprender e evoluir na área de tecnologia.
+
+### 💾 Projetos em Destaque
+
+- 📱 App com React Native e Expo – Aplicativo mobile para auxiliar crianças com TEA <br> no seu desenvolvimento, utilizando imagens autodescritivas para facilitar o dia a dia.
+
+- 📱 App com React Native – Aplicativo para auxiliar na gestão de pequenas tarefas.
+
+- 🌐 Site em React – Uma calculadora para realizar cálculos de juros compostos.
+
+- 🌍 Site Pessoal – Um site diferenciado, do meu jeito.
+
+### 📡 Me encontre aqui
+
+🔗 LinkedIn: www.linkedin.com/in/Dev-Luiz-Phillipe
+
+📩 E-mail: lord.luiz2014@gmail.com
+
+
+### ⚡ Tecnologias
+
+<div style="display: inline_block, align-items:center" ><br/>
+    <img align= "center" alt= "HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+    <img align= "center" alt= "CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+    <img align= "center" alt= "TAILWIND CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> 
+    <img align= "center" alt= "JAVA SCRIPT" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+    <br><br>
+    <img align= "center" alt= "TYPESCRIPT" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+    <img align= "center" alt= "REACT" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> 
+    <img align= "center" alt= "REACT NATIVE" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    <img align="center" alt="EXPO" src="https://github.com/user-attachments/assets/2096e11e-5bc9-48a5-a70a-c2dd8c0b9e62" />
+    <br><br>
+    <img align= "center" alt= "FIGMA" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /> <br><br>
+    <img align= "center" alt= "MYSQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+    <img align="center" alt="FIREBASE" src="https://github.com/user-attachments/assets/c0403ad0-7158-4647-a65a-d6d3f2e8a92e" />
+    <img align="center" alt="CLERK" src="https://img.shields.io/badge/github.com%2Fclerk-grey?style=for-the-badge&logo=clerk&logoColor=ffffff&color=6c47ff" />
+    
+</div>
