@@ -27,7 +27,7 @@
 
 🔗 LinkedIn: www.linkedin.com/in/Dev-Luiz-Phillipe
 
-📩 E-mail: luiz.phillipe2003@outlook.com
+📩 E-mail: luiz.phillipecastro2003@gmail.com
 
 
 ### ⚡ Tecnologias
