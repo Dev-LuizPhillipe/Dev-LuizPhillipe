@@ -9,15 +9,11 @@
 
 - Desenvolvimento web e mobile.
 
-- Atualmente, trabalhando em projetos com React.
-
 - Sempre buscando aprender e evoluir na área de tecnologia.
 
 ### 💾 Projetos em Destaque
 
 - 📱 App com React Native e Expo – Aplicativo mobile para auxiliar crianças com TEA <br> no seu desenvolvimento, utilizando imagens autodescritivas para facilitar o dia a dia.
-
-- 📱 App com React Native – Aplicativo para auxiliar na gestão de pequenas tarefas.
 
 - 🌐 Site em React – Uma calculadora para realizar cálculos de juros compostos.
 
@@ -27,7 +23,7 @@
 
 🔗 LinkedIn: www.linkedin.com/in/Dev-Luiz-Phillipe
 
-📩 E-mail: luiz.phillipecastro2003@gmail.com
+📩 E-mail: luiz.phillipe2003@outlook.com
 
 
 ### ⚡ Tecnologias
