@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&width=480&lines=Desenvolvedor+Fullstack;Web+%26+Mobile+com+React+e+React+Native;Estudante+de+TI+sempre+aprendendo" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&width=480&lines=Desenvolvedor+Fullstack;Estudante+de+TI+sempre+aprendendo" alt="Typing SVG" />
   </a>
 </p>
 
@@ -10,7 +10,6 @@
   <a href="https://www.linkedin.com/in/dev-luiz-phillipe/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:luiz.phillipecastro2003@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
   <a href="https://www.instagram.com/luiz.castroo"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <img src="https://komarev.com/ghpvc/?username=Dev-LuizPhillipe&color=38B2AC&style=for-the-badge&label=Visitas" alt="Visitas ao perfil" />
 </p>
 
 ---
