@@ -1,47 +1,102 @@
-# Olá, eu sou Luiz Phillipe 🚀
+<h1 align="center">Olá, eu sou o Luiz Phillipe 👋</h1>
 
-## Bem-vindo ao meu perfil! Sou um entusiasta da programação, estudante de TI e desenvolvedor fullstack.
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-luiz-phillipe/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luiz.phillipe2003@outlook.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luiz.castroo)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&width=480&lines=Desenvolvedor+Fullstack;Web+%26+Mobile+com+React+e+React+Native;Estudante+de+TI+sempre+aprendendo" alt="Typing SVG" />
+  </a>
+</p>
 
-### 🚀 Sobre mim
+<p align="center">
+  <a href="https://www.linkedin.com/in/dev-luiz-phillipe/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:luiz.phillipecastro2003@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://www.instagram.com/luiz.castroo"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Dev-LuizPhillipe&color=38B2AC&style=for-the-badge&label=Visitas" alt="Visitas ao perfil" />
+</p>
 
-- Desenvolvimento web e mobile.
+---
 
-- Sempre buscando aprender e evoluir na área de tecnologia.
+## 🧑‍💻 Sobre mim
 
-### 💾 Projetos em Destaque
+- 🎓 Estudante de Tecnologia da Informação
+- 🌐 Desenvolvedor **fullstack**
+- 🎨 Gosto de cuidar do produto do design ao deploy, prototipando no **Figma**
+- 🌱 Sempre estudando e buscando evoluir na área de tecnologia
 
-- 📱 App com React Native e Expo – Aplicativo mobile para auxiliar crianças com TEA <br> no seu desenvolvimento, utilizando imagens autodescritivas para facilitar o dia a dia.
+---
 
-- 🌐 Site em React – Uma calculadora para realizar cálculos de juros compostos.
+## 💾 Projetos em destaque
 
-- 🌍 Site Pessoal – Um site diferenciado, do meu jeito.
+| Projeto                               | Descrição                                                                                                                                                       | Stack               |
+| ------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------- |
+| 📱 **App para crianças com TEA**      | Aplicativo mobile que auxilia crianças com Transtorno do Espectro Autista no dia a dia, usando imagens autodescritivas para facilitar a comunicação e a rotina. | React Native · Expo |
+| 💰 **Calculadora de Juros Compostos** | Aplicação web para simular investimentos e calcular juros compostos de forma simples e visual.                                                                  | React               |
 
-### 📡 Me encontre aqui
+---
 
-🔗 LinkedIn: www.linkedin.com/in/Dev-Luiz-Phillipe
+## ⚡ Tecnologias
 
-📩 E-mail: luiz.phillipecastro2003@gmail.com
+**Front-end**
 
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+</p>
 
-### ⚡ Tecnologias
+**Mobile**
 
-<div style="display: inline_block, align-items:center" ><br/>
-    <img align= "center" alt= "HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-    <img align= "center" alt= "CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-    <img align= "center" alt= "TAILWIND CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> 
-    <img align= "center" alt= "JAVA SCRIPT" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-    <br><br>
-    <img align= "center" alt= "TYPESCRIPT" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-    <img align= "center" alt= "REACT" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> 
-    <img align= "center" alt= "REACT NATIVE" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-    <img align="center" alt="EXPO" src="https://github.com/user-attachments/assets/2096e11e-5bc9-48a5-a70a-c2dd8c0b9e62" />
-    <br><br>
-    <img align= "center" alt= "FIGMA" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /> <br><br>
-    <img align= "center" alt= "MYSQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-    <img align="center" alt="FIREBASE" src="https://github.com/user-attachments/assets/c0403ad0-7158-4647-a65a-d6d3f2e8a92e" />
-    <img align="center" alt="CLERK" src="https://img.shields.io/badge/github.com%2Fclerk-grey?style=for-the-badge&logo=clerk&logoColor=ffffff&color=6c47ff" />
-</div>
-<!-- [Snake animation](https://github.com/Dev-LuizPhillipe/Dev-LuizPhillipe/blob/output/github-contribution-grid-snake.svg) --!>
+<p>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" />
+</p>
+
+**Back-end, dados e autenticação**
+
+<p>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white" alt="Clerk" />
+</p>
+
+**Design e ferramentas**
+
+<p>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+</p>
+
+---
+
+## 📊 Estatísticas
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Dev-LuizPhillipe&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-LuizPhillipe&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" alt="Linguagens mais usadas" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Dev-LuizPhillipe&theme=tokyonight&hide_border=true&locale=pt_BR" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🐍 Contribuições
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dev-LuizPhillipe/Dev-LuizPhillipe/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dev-LuizPhillipe/Dev-LuizPhillipe/output/github-contribution-grid-snake.svg" />
+    <img alt="Animação da cobrinha comendo as contribuições" src="https://raw.githubusercontent.com/Dev-LuizPhillipe/Dev-LuizPhillipe/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+---
+
+<p align="center">
+  💬 Aberto a oportunidades, parcerias e boas conversas sobre tecnologia.<br/>
+  <a href="https://www.linkedin.com/in/dev-luiz-phillipe/">Me chama no LinkedIn!</a>
+</p>
